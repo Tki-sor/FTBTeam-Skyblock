@@ -1,0 +1,30 @@
+# 项目排除路径
+/.gradle/
+/common/build/
+/fabric/.gradle/
+/fabric/build/
+/neoforge/.gradle/
+/neoforge/build/
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
