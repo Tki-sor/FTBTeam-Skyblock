@@ -5,6 +5,5 @@ public final class FTBTeamSkyblock {
 
     public static void init() {
         // Write common init code here.
-
     }
 }
